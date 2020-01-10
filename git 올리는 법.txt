@@ -1,0 +1,7 @@
+.git 파일 없으면 다운받을 위치에서 cmd->git clone https://github.com/SeongGeunLee/DeepLearningStudy.git
+
+git pull
+git status
+git add .
+git commit -m "test"
+git push
