@@ -1,3 +1,3 @@
-Lee Ji Seon
+## Lee Ji Seon
 
 https://sseni.tistory.com/
