@@ -10,7 +10,7 @@ import pyproj
 school = input()
 
 # 학교 id 조회
-con_string = "host='localhost' dbname ='postgres' user='postgres' password='9407740'"
+con_string = "host='localhost' dbname =' ' user=' ' password=' '"
 con = psycopg2.connect(con_string)
 
 cur = con.cursor()
